@@ -82,23 +82,13 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin99&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin99show_icons=true&theme=github_dark&hide_border=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin99&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nabin99&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
----
 
-### 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Nabin99&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
 
 ### 🐍 Contribution Snake
 
