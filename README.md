@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;TypeScript+%7C+Node.js+%7C+React;Fintech+%7C+Open+Source+%7C+AI+Integration;Based+in+Brampton%2C+ON+%F0%9F%87%A8%F0%9F%87%A6)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=58a6ff&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Nabin99&color=58a6ff&style=flat)
 &nbsp;
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-✓-3fb950?style=flat)
 
