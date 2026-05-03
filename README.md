@@ -82,7 +82,7 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin99show_icons=true&theme=github_dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nabin99&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 &nbsp;
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nabin99&layout=compact&theme=github_dark&hide_border=true)
 
