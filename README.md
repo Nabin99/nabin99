@@ -82,9 +82,9 @@ const developer = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nabin99&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nabin99&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
 &nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nabin99&layout=compact&theme=github_dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nabin99&layout=compact&theme=github_dark&hide_border=true)
 
 </div>
 
@@ -94,7 +94,7 @@ const developer = {
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=nabin99&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Nabin99&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,7 +104,7 @@ const developer = {
 
 <div align="center">
 
-![Snake animation](https://github.com/nabin99/nabin99/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Nabin99/nabin99/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
