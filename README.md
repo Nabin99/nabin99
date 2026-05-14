@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Nabin Dhital] 👋
+# Hi there, I'm Nabin Dhital 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Engineer;TypeScript+%7C+Node.js+%7C+React;Fintech+%7C+Open+Source+%7C+AI+Integration;Based+in+Brampton%2C+ON+%F0%9F%87%A8%F0%9F%87%A6)](https://git.io/typing-svg)
 
