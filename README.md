@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-Software engineer with 3+ years building production systems across fintech, open source, and AI-integrated platforms. Most recently at Dzangolab, where I contributed to published npm packages used in real-world applications.Software engineer with 3+ years building production systems across fintech, open source, and AI-integrated platforms. Most recently at Dzangolab, where I contributed to published npm packages used in real-world applications.
+Software engineer with 4+ years building production systems across fintech, open source, and AI-integrated platforms. Most recently at Dzangolab, where I contributed to published npm packages used in real-world applications.Software engineer with 3+ years building production systems across fintech, open source, and AI-integrated platforms. Most recently at Dzangolab, where I contributed to published npm packages used in real-world applications.
 I care deeply about code quality, developer experience, and building things that actually work in production — not just demos. Currently open to new full-stack and backend opportunities across the GTA.
 
 I care deeply about code quality, developer experience, and building things that actually work in production — not just demos. Currently open to new full-stack and backend opportunities across the GTA.
